@@ -1,0 +1,10 @@
+kyawlwinsoe1@Kyaw-Lwin-Soes-MacBook-Pro ServerLibrary % dotnet ef migrations add InitialTestMigration
+Build started...
+Build succeeded.
+Done. To undo this action, use 'ef migrations remove'
+kyawlwinsoe1@Kyaw-Lwin-Soes-MacBook-Pro ServerLibrary % dotnet ef database update
+Build started...
+Build succeeded.
+Applying migration '20250425162053_InitialTestMigration'.
+Done.
+kyawlwinsoe1@Kyaw-Lwin-Soes-MacBook-Pro ServerLibrary % 
